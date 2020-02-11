@@ -1,0 +1,10 @@
+# Swift
+.build/
+.swiftpm/
+
+# Publish
+.publish/
+Output/
+
+# Mac OS
+.DS_Store
